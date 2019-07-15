@@ -10,7 +10,7 @@ div {
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
 
-Red: ; Orange: #ffa500; Yellow: #ff0; Green: #00bc3f; Blue: #06f; Indigo: #8a2be2; Violet:
+Red: ; Orange: #ffa500; Yellow: #ff0; Green: #00bc3f; Blue: #06f; Indigo: ; Violet:
 #red {
   border-top-color: #f00;
 }
@@ -32,7 +32,7 @@ Red: ; Orange: #ffa500; Yellow: #ff0; Green: #00bc3f; Blue: #06f; Indigo: #8a2be
 }
 
 #indigo {
-  border-top-color: #f00;
+  border-top-color: #8a2be2;
 }
 
 #violet {
